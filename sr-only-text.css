@@ -1,0 +1,15 @@
+.sr-only-text {
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  -webkit-clip-path: inset(50%);
+  white-space: nowrap;
+  outline: none;
+  box-shadow: none;
+  position: absolute !important
+}
